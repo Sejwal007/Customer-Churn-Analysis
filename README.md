@@ -39,7 +39,7 @@ The analysis focused on identifying customer segments with the highest propensit
 
 An interactive dashboard was created in Excel to visualize the key findings and provide a clear, at-a-glance overview of churn metrics across different customer segments.
 
-![Dashboard Screenshot](Project Resources/Customer Churn Dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Sejwal007/Customer-Churn-Analysis/main/Project%20Resources/Customer%20Churn%20Dashboard.png)
 
 ---
 
